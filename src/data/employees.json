@@ -1,0 +1,38 @@
+[
+  {
+    "id": "[001]",
+    "name": "Alice",
+    "surname": "Rossi",
+    "transfers": 0
+  },
+  {
+    "id": "[002]",
+    "name": "Marco",
+    "surname": "Bianchi",
+    "transfers": 0
+  },
+  {
+    "id": "[003]",
+    "name": "Giulia",
+    "surname": "Ferrari",
+    "transfers": 0
+  },
+  {
+    "id": "[004]",
+    "name": "Luca",
+    "surname": "Romano",
+    "transfers": 0
+  },
+  {
+    "id": "[005]",
+    "name": "Sara",
+    "surname": "Conti",
+    "transfers": 0
+  },
+  {
+    "id": "[006]",
+    "name": "Davide",
+    "surname": "Greco",
+    "transfers": 0
+  }
+]
